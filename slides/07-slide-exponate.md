@@ -1,0 +1,3 @@
+## Exponate  
+![](images/lageplan.png)
+

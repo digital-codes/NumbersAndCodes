@@ -1,0 +1,4 @@
+css/custom.css
+css/font-awesome.min.css
+js/custom.js
+js/lodash.min.js
